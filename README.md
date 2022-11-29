@@ -5,3 +5,5 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Arkokhan21&show_icons=true&count_private=true)  
 
 ![Profile views](https://gpvc.arturio.dev/Arkokhan21)  
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
